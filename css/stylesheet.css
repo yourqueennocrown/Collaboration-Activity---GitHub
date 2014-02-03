@@ -1,0 +1,18 @@
+body{
+	background-color: #00BAFF;
+	width: 1096px;
+}
+
+p{
+	font-size: 2em;
+	color:#FFD386;
+	text-align: center;
+}
+
+#circle {
+	border-radius: 400px;
+	background-color:#FFD386;
+	width:600px;
+	height: 600px;
+	margin-left:248px;
+}
